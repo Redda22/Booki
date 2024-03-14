@@ -1,0 +1,48 @@
+Élaboration de la maquette
+    Principe de couches
+
+Intégration du header
+    Bordure bleu au survol
+    Il s'agit de lien de redirection
+
+Barre de recherche
+    Séparé en 3 parties : logo, saisie, bouton
+    Il s'agit d'un champ de saisi
+    Le tout est dans un formulaire
+    text "Rechercher" établie en css
+
+Filtre
+    Changement de couleur au survol
+    Filtre non fonctionnel
+
+Cards
+    intégration images via html
+    attribut alt
+    
+    Inspiré des autres cartes
+    Toute les cartes sont cliquable en intégralité
+
+Footer
+    Établie sur 3 colones
+
+
+
+Site:
+    Largeur max et min respecté : 320 - 1440
+    Toute les icones viennent de font awesome
+    Police en raleway
+    Utilisation de flexbox pour la mise en page
+
+
+
+Responsive
+    Utilisation de media query sur un seul fichier css
+
+    Tablette
+
+    Phone:
+        Ordre du header
+        Lien avec trais en bas
+
+        Barre de recherche avec loupe, effacement du texte "recherche" en css
+
